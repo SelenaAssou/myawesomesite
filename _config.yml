@@ -57,7 +57,7 @@ github: mygithub
 email: myemail@gmail.com
 
 authors:
-    johndoe:
+    sueassou:
         name: Sue Assou
         bio: I'm a CyberSecurity Enthusiast and Web Developer
         external-image: false
@@ -98,7 +98,7 @@ show-author: false
 # do you want some animations?
 animation: true
 
-plugins:
+plugins_dir:
   - jekyll-seo-tag
   - jekyll-gist
   - jekyll-feed
