@@ -6,7 +6,7 @@ layout: page
 
 <p>Hello.</p>
 
-<p>I'm Sue also known as Soukaina. I am a Computer Science major at University of Central Florida. My curiosity drives me to explore and discover the myterious world of the Web. I work on projects to learn about this field in an applicable way. I find software engineering and cybersecurity very interesting and I look for ways to merge the two.</p>
+<p>I'm Sue, a Computer Science major at University of Central Florida. My curiosity drives me to explore and discover the myterious world of the Web. I work on projects to learn about this field in an applicable way. I find software engineering and cybersecurity very interesting and I look for ways to merge the two.</p>
 
 <h2>Skills</h2>
 
