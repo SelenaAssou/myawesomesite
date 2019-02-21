@@ -56,6 +56,7 @@ This is a project I picked up during the winter break of Decemeber 2018 in order
 I used Jekyll, which is a Static Page generator and used the command line to get it up and running.
 For hosting and deploying, Gihtub was the free option that I used. There are other options such as Digital Ocean or AWS for hosting, and name cheap.com or Google DNS resolution for web address changing, but they're more expensive. I stuck with the free for now.
 
+[website] is here: 'https://selenaassou.github.io/myawesomesite' 
 ---
 
 <!-- ```
