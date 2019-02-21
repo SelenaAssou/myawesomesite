@@ -58,7 +58,6 @@ For hosting and deploying, Gihtub was the free option that I used. There are oth
 
 
 ---
-[website] is here: 'https://selenaassou.github.io/myawesomesite' 
 
 <!-- ```
 name: John Doe
@@ -74,5 +73,5 @@ and lot of other options, like width, projects, pages, read-time, tags, related 
 Check the [FAQ](./FAQ.md) if you have any doubt or problem.
 
 --- -->
-
+[website] is here: 'https://selenaassou.github.io/myawesomesite' 
 [MIT](http://kopplin.mit-license.org/) License © Sérgio Kopplin
