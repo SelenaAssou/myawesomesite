@@ -57,6 +57,7 @@ I used Jekyll, which is a Static Page generator and used the command line to get
 For hosting and deploying, Gihtub was the free option that I used. There are other options such as Digital Ocean or AWS for hosting, and name cheap.com or Google DNS resolution for web address changing, but they're more expensive. I stuck with the free for now.
 
 
+Website is here: https://selenaassou.github.io/myawesomesite
 ---
 
 <!-- ```
@@ -73,5 +74,4 @@ and lot of other options, like width, projects, pages, read-time, tags, related 
 Check the [FAQ](./FAQ.md) if you have any doubt or problem.
 
 --- -->
-[website] is here: 'https://selenaassou.github.io/myawesomesite' 
 [MIT](http://kopplin.mit-license.org/) License © Sérgio Kopplin
